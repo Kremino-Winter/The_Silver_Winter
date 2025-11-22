@@ -1,0 +1,30 @@
+e910c82af1378a97450e26817c58487e
+::res://::1763819507
+animation_player.gd::GDScript::8175763252665579489::1762014889::0::1::::<>AnimationPlayer<><>0<>0<><>::
+Background paint finished.png::CompressedTexture2D/CompressedTexture2D::3200719315103508120::1756801292::1756801292::1::::<><><>0<>0<>a16dbe8ab7751a375aacb71b89f31af5<>res://.godot/imported/Background paint finished.png-3309bf30feb474da0ddd0829e80a81bd.ctex::
+close.png::CompressedTexture2D::3400786216401557220::1761589338::1761589339::1::::<><><>0<>0<>82aa4d0e4a21f3e900a69c25164d41ec<>res://.godot/imported/close.png-c89f9f6cbace982cd5953d12c11f6715.ctex::
+control.gd::GDScript::7906519174629129324::1762014603::0::1::::<>Node<><>0<>0<><>::
+export_presets.cfg::TextFile::-1::1762017622::0::1::::<><><>0<>0<><>::
+icon.svg::CompressedTexture2D/CompressedTexture2D::5158517071956473603::1756800804::1756800812::1::::<><><>0<>0<>3d088ed8958d6a8a9c925a252a5e9c14<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+Main Character.png::CompressedTexture2D/CompressedTexture2D::842773193837793604::1756801292::1756801292::1::::<><><>0<>0<>0aad1fdc8e61a102e618acc739bdb3ac<>res://.godot/imported/Main Character.png-b3240a39baa2061662084ddc0a99dfab.ctex::
+main.gd::GDScript::3261729602698352416::1759588862::0::1::::<>Node<><>0<>0<><>::
+main.tscn::PackedScene::96178966396386819::1763819401::0::1::::<><><>0<>0<><>::uid://mail7gk15i33::::res://Main Character.png<>uid://dkv8hlj43mkf1::::res://control.gd<>uid://bopmpmwiko87q::::res://close.png<>uid://dyekbi2qvi2d6::::res://player.gd<>uid://blupm5xotagnw::::res://Background paint finished.png<>uid://bt3a5mpk76rgt::::res://SnowyGroungTexture.png<>uid://bss12lmwgkr5a::::res://The Silver Winter(artwork)/snow_particle.png
+player.gd::GDScript::8852661227781785025::1761422831::0::1::::<>CharacterBody2D<><>0<>0<><>::
+resolution.gd::GDScript::4163756229029977437::1759587697::0::1::::<>Control<><>0<>0<><>::
+SnowyGroungTexture.png::CompressedTexture2D/CompressedTexture2D::7645366083384632574::1756813678::1763819517::1::::<><><>0<>0<>de668d7e6c0985f2f20c7e9569f616d8<>res://.godot/imported/SnowyGroungTexture.png-131ed74b4277b1155cee0de3ce652007.ctex::
+TitleScreen.tscn::PackedScene::3648988641106960975::1762014958::0::1::::<><><>0<>0<><>::
+::res://Executables/::1763819507
+The Silver Winter second proto_4.apple-touch-icon.png::CompressedTexture2D::3036336666016461803::1761330827::1763819517::1::::<><><>0<>0<>f86d0498c1b926718051c2efb4454621<>res://.godot/imported/The Silver Winter second proto_4.apple-touch-icon.png-1b08d82b3b9db9777af6cdff3b7a45e3.ctex::
+The Silver Winter second proto_4.icon.png::CompressedTexture2D::7856111650549415071::1761330827::1763819517::1::::<><><>0<>0<>bf2c8e27790d6de2a184d3ee5dc3e7f0<>res://.godot/imported/The Silver Winter second proto_4.icon.png-34669e1dfcd14b085b1b64f850bc4ecb.ctex::
+The Silver Winter second proto_4.png::CompressedTexture2D::1150928438941010504::1761330827::1763819517::1::::<><><>0<>0<>d40b282e99a9f2778c2b45a51a873bd5<>res://.godot/imported/The Silver Winter second proto_4.png-b36b92da50b6ab58802a612c8aef9f0f.ctex::
+::res://The Silver Winter(artwork)/::1763819401
+Background paint finished.png::CompressedTexture2D::8766225022572431408::1759586212::1763819401::1::::<><><>0<>0<>ab3014c0dbfa144deceaa2061503f337<>res://.godot/imported/Background paint finished.png-773359e505672a2bfc9e1d7ef0f3a700.ctex::
+Background paint unfinished.png::CompressedTexture2D::3079390378048479618::1759586212::1763819401::1::::<><><>0<>0<>b7e252d5eebbf4dc539bd4cf949244a2<>res://.godot/imported/Background paint unfinished.png-9b68ba4f29b74248e088dd949aee057b.ctex::
+Main Character.png::CompressedTexture2D::8317294309036447337::1759586212::1763819401::1::::<><><>0<>0<>504bdf3f384801f2bdf773da75d9a347<>res://.godot/imported/Main Character.png-54b29bf7bc8fbeeef0ec9be1afdf5852.ctex::
+snow_particle.png::CompressedTexture2D::3688606124300635824::1759586212::1763819401::1::::<><><>0<>0<>b41082c985fd91faaf750875a277ac18<>res://.godot/imported/snow_particle.png-b853519b53f2253cd9039fd6c128f43e.ctex::
+treelog16bit.jpg::CompressedTexture2D::2146544714303746412::1759586212::1763819401::1::::<><><>0<>0<>bdd27ef66136a78c1b3229f9935c2185<>res://.godot/imported/treelog16bit.jpg-ce075d6818761ef25d7403391f1932bd.ctex::
+::res://The Silver Winter(artwork)/Ground/::1763819401
+SnowyGroungTexture.png::CompressedTexture2D::7246323515832417597::1759586212::1763819401::1::::<><><>0<>0<>a643e3ca523cf8cca62415186889d217<>res://.godot/imported/SnowyGroungTexture.png-bca2db50b5027dff80990edf9bc6d486.ctex::
+::res://The Silver Winter(artwork)/Main Character/::1763819401
+colour pallette.png::CompressedTexture2D::6475814060319182302::1759586212::1763819401::1::::<><><>0<>0<>c3427802e8bf01e52b6fc2d7a1e8ef01<>res://.godot/imported/colour pallette.png-3d8bbd2fb6dde540bbf405fc717ef614.ctex::
+Main Character shadowed+.png::CompressedTexture2D::3452991615291826820::1759586212::1763819401::1::::<><><>0<>0<>d6e01e78be699725eb89ea1295f35648<>res://.godot/imported/Main Character shadowed+.png-d93c0e29f8ef8379027cf43fd331742c.ctex::

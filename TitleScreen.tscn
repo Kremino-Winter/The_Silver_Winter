@@ -1,0 +1,28 @@
+[gd_scene format=3 uid="uid://br8uksegmude2"]
+
+[node name="Control" type="Control"]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="ColorRect" type="ColorRect" parent="."]
+layout_mode = 0
+offset_left = -321.0
+offset_top = -181.0
+offset_right = 319.0
+offset_bottom = 179.0
+color = Color(0, 0, 0, 0)
+
+[node name="Button" type="Button" parent="."]
+texture_filter = 1
+layout_mode = 0
+offset_left = -106.0
+offset_top = -227.0
+offset_right = 102.0
+offset_bottom = -185.0
+text = "New Game"
+
+[node name="AnimationPlayer" type="AnimationPlayer" parent="."]
